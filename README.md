@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...App Development,Web development,API Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... b.sakilobm@gmail.com
 
 <!---
 sakilobm/sakilobm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
